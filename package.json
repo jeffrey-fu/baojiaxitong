@@ -1,0 +1,22 @@
+{
+  "name": "baojiaxitong",
+  "version": "1.0.0",
+  "description": "1. 写代码 2. 确认修改",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sskingfu/baojiaxitong.git"
+  },
+  "author": "fujiayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sskingfu/baojiaxitong/issues"
+  },
+  "homepage": "https://github.com/sskingfu/baojiaxitong#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
